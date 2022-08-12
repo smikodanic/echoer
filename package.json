@@ -1,0 +1,23 @@
+{
+  "name": "echoer",
+  "version": "1.0.0",
+  "title": "Echoer",
+  "description": "Print nice messages to console and push it via event emitter.",
+  "keywords": [
+    "echoer",
+    "console",
+    "terminal",
+    "event emitter"
+  ],
+  "author": "Saša Mikodanić",
+  "license": "AGPL-3.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:smikodanic/echoer.git"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "moment": "^2.29.4"
+  }
+}
